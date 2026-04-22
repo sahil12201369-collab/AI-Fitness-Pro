@@ -1,0 +1,56 @@
+Day 1
+8:00 AM: Banana + Green Tea
+10:00 AM: Chicken (16g protein)
+1:00 PM: Upma + Chicken (21g protein) + Mixed Veg
+4:00 PM: Almonds
+7:30 PM: Chicken + Mixed Veg (21g protein)
+9:30 PM: Milk / Seeds
+
+Day 2
+8:00 AM: Orange + Green Tea
+10:00 AM: Fish (16g protein)
+1:00 PM: Poha + Fish (21g protein) + Palak
+4:00 PM: Boiled eggs
+7:30 PM: Fish + Palak (21g protein)
+9:30 PM: Milk / Seeds
+
+Day 3
+8:00 AM: Orange + Green Tea
+10:00 AM: Fish (16g protein)
+1:00 PM: Oats + Fish (21g protein) + Palak
+4:00 PM: Boiled eggs
+7:30 PM: Fish + Palak (21g protein)
+9:30 PM: Milk / Seeds
+
+Day 4
+8:00 AM: Banana + Green Tea
+10:00 AM: Chicken (16g protein)
+1:00 PM: Oats + Chicken (21g protein) + Bhindi
+4:00 PM: Roasted chana
+7:30 PM: Chicken + Bhindi (21g protein)
+9:30 PM: Milk / Seeds
+
+Day 5
+8:00 AM: Banana + Green Tea
+10:00 AM: Chicken (16g protein)
+1:00 PM: Oats + Chicken (21g protein) + Lauki
+4:00 PM: Almonds
+7:30 PM: Chicken + Lauki (21g protein)
+9:30 PM: Milk / Seeds
+
+Day 6
+8:00 AM: Banana + Green Tea
+10:00 AM: Chicken (16g protein)
+1:00 PM: Rice + Chicken (21g protein) + Mixed Veg
+4:00 PM: Boiled eggs
+7:30 PM: Chicken + Mixed Veg (21g protein)
+9:30 PM: Milk / Seeds
+
+Day 7
+8:00 AM: Banana + Green Tea
+10:00 AM: Eggs (16g protein)
+1:00 PM: Upma + Eggs (21g protein) + Lauki
+4:00 PM: Boiled eggs
+7:30 PM: Eggs + Lauki (21g protein)
+9:30 PM: Milk / Seeds
+
